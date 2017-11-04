@@ -104,14 +104,4 @@ var TrrenderView = Backbone.View.extend({   // each tr how to code
     而且 不会出现 ，一个 error 问题，导致 全部的代码瘫痪。
     
     最小知识原则，依赖反转等等 我们编码的时候经常听到的词，都和她有关。
-    
    
-  
-    
-     
-    
-    
-    
-    
-    
-    

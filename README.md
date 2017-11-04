@@ -86,10 +86,10 @@ var TrrenderView = Backbone.View.extend({   // each tr how to code
 		}).render()
     
     
-    其实代码 内容 部分 都差不多，就是和大家 交流一下思想，顺便写几行英文。
+    其实代码 内容 部分 都差不多，就是和大家 分享一下个人见解，顺便写几行英文。
     在我们用 mvc 或者说伪mvc 框架的时候，一定 搞清楚 这个框架的导向，backbone 其实并不是 真正意义上的mvc
     因为 她的 c 层 是  collection。字面上：就是集合，和mongodb的collection一个意思， 更像是 适配器，选择器，筛选器。
-    并且backbone还有router 呈现页面。
+    并且backbone还有router 呈现页面。她的插件也很丰富。validation,workflow,-relational...
     
     
     controller层 就是纽带？她的功能很关键，更像一个管理者，model负责数据，逻辑，view负责呈现，页面交互。
@@ -108,7 +108,7 @@ var TrrenderView = Backbone.View.extend({   // each tr how to code
    
   
     
-    
+     
     
     
     
